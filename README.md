@@ -7,11 +7,11 @@ This project focuses on **fixing real-world bugs** in an existing React applicat
 ---
 
 ## 🚀 Live Demo
-👉 https://YOUR-NETLIFY-LINK.netlify.app
+ [https://YOUR-NETLIFY-LINK.netlify.app](https://chimerical-yeot-a6cf89.netlify.app/)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Each task contains:
 - Revenue
@@ -25,7 +25,7 @@ The app allows users to manage tasks efficiently and view performance insights.
 
 ---
 
-## 🐞 Bugs Fixed
+##  Bugs Fixed
 
 ### 1️⃣ Double Fetch Issue
 - Fixed duplicate task loading on page refresh
@@ -61,7 +61,7 @@ The app allows users to manage tasks efficiently and view performance insights.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - React + TypeScript
 - Vite
@@ -71,7 +71,7 @@ The app allows users to manage tasks efficiently and view performance insights.
 
 ---
 
-## 📂 Setup & Run Locally
+##  Setup & Run Locally
 
 ```bash
 npm install
