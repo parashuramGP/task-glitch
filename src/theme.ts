@@ -2,7 +2,7 @@ import { createTheme, alpha } from '@mui/material/styles';
 
 const commonPalette = {
   primary: {
-    main: '#4F6BED', // calm accent
+    main: '#4F6BED', 
     light: '#7C8CF1',
     dark: '#2E4DD6',
   },

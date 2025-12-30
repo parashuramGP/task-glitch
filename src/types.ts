@@ -1,9 +1,7 @@
 export type Priority = 'High' | 'Medium' | 'Low';
 export type Status = 'Todo' | 'In Progress' | 'Done';
 
-/**
- * ✅ THIS is what FORMS send
- */
+
 export type TaskInput = {
   id?: string;
   title: string;
@@ -14,9 +12,7 @@ export type TaskInput = {
   notes?: string;
 };
 
-/**
- * ✅ THIS is what STORE keeps
- */
+
 export interface Task extends TaskInput {
   id: string;
   createdAt: string;
